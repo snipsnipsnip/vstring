@@ -2,13 +2,13 @@
   "name": "vstring",
   "version": "0.0.2",
   "description": "Vstring is a simple string building API for the C programming language",
-  "repo": "dhobsd/vstring",
+  "repo": "snipsnipsnip/vstring",
   "src": [
     "vstring.h"
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:dhobsd/vstring.git"
+    "url": "git://github.com/snipsnipsnip/vstring.git"
   },
   "keywords": [
     "buffer", "string"
